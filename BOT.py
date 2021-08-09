@@ -4,14 +4,14 @@ print('Hello')
 
 # 디스코드 봇
 import discord, asyncio, random, openpyxl, traceback, subprocess, random, datetime, re
+import os
 
 
 
 
 
-
-
-token = 'ODQyNzE5MTg2OTkyMjM0NDk2.YJ5ZZw.QNuNl-Xa1x-_H22c99SatpsfRBY'
+access_token = os.environ["BOT_ TOKEN"]
+token = access_token
 client = discord.Client()
 
 

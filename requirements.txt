@@ -1,8 +1,8 @@
-discord.py==
-asyncio.py==
-random.py==
-openpyxl.py==
-traceback.py==
-subprocess.py==
-datetime.py==
-re.py==
+discord.py
+asyncio.py
+random.py
+openpyxl.py
+traceback.py
+subprocess.py
+datetime.py
+re.py
